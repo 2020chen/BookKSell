@@ -1,0 +1,16 @@
+*{ margin:0 auto;}
+input {outline: none;}
+textarea {outline: none;}
+body {
+    background: #dfdfdf;
+    font-size: 12px;
+    background: url(http://localhost:1385/Include/common/image/bg.gif) top center #dfdfdf no-repeat;
+}
+.login{  width:766px;}
+.logo {}
+.left{ width:382px; float:left; background:url(../images/logo.png) 70px 220px no-repeat}
+.right{ width:354px; height:430px;float:left; padding-top:215px; padding-left:30px; line-height:40px; font-size:14px}
+.login_img{ margin-top:5px}
+.yz{ font-size:14px; font-weight:bold; color:#4e9f06}
+#uboxstyle {width:100px; padding-top:4px; text-align:left; padding-left:0px;}
+.bianju { margin-bottom:25px}
